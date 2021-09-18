@@ -17,7 +17,7 @@ public class SpawnManagerX : MonoBehaviour
 
     public GameObject player; 
 
-    public float enemySpeed = 30f;
+    public float enemySpeed = 50f;
 
     // Update is called once per frame
     void Update()
